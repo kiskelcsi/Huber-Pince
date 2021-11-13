@@ -476,6 +476,9 @@
     .login-content {
         height: 700px;
     }
+    .mt-66 {
+        margin-top: 40px;
+    }
 }
 
 @media (max-width: 768px) {
@@ -759,6 +762,9 @@
     .table .cw-align.product-price {
         font-size: 13px;
     }
+    .mt-66 {
+        margin-top: 40px;
+    }
 }
 
 @media (max-width: 575px) {
@@ -1035,6 +1041,9 @@
     .login-content {
         display: none;
     }
+    .mt-66 {
+        margin-top: 40px;
+    }
 }
 
 @media (max-width: 400px) {
@@ -1059,5 +1068,8 @@
     /* shop detail */
     .product-description .tabs .tab-content {
         padding: 0;
+    }
+    .mt-66 {
+        margin-top: 40px;
     }
 }

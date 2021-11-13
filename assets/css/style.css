@@ -4207,7 +4207,7 @@ table img {
 }
 
 .sigma_footer-middle a:hover {
-    color: #81a524;
+    color: #070902;
 }
 
 .sigma_footer-middle a.sigma_btn-custom,
@@ -4258,11 +4258,7 @@ table img {
 }
 
 .sigma_footer-bottom .sigma_footer-copyright>a:hover {
-    color: #81a524;
-}
-
-.footer-widget {
-    padding-bottom: 80px;
+    color: #1a2109;
 }
 
 .footer-widget .sigma_sm {
@@ -5176,8 +5172,6 @@ table img {
     margin: 0;
 }
 
-.comment-form {}
-
 .comments-list .comment-item {
     position: relative;
     display: -webkit-box;
@@ -5293,8 +5287,6 @@ table img {
     font-weight: 600;
     text-transform: uppercase;
 }
-
-.sigma_author-about .sigma_author-about-content h3 {}
 
 .sigma_author-about .sigma_author-about-content p {
     margin: 0;
@@ -8702,8 +8694,6 @@ td.remove {
     padding-right: 0;
 }
 
-.accordion .card-header[aria-expanded="true"] {}
-
 .accordion .card-header::after {
     content: "";
     position: absolute;
@@ -11282,4 +11272,8 @@ td.has-title {
 .callgrapeimg {
     width: 300px;
     height: 172px;
+}
+
+.pr-33 {
+    padding-right: 33px !important;
 }
